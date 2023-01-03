@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header_div{
+    background-color: rgb(72, 67, 214);
+    color: rgb(26, 4, 4);
+    font-size: large;
+    font-weight: bold;
+}
+.header_div p{
+    color: rgb(52, 168, 99);
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.main_div button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 140px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(202, 74, 10);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(72, 56, 161);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px coral;
+
+}
